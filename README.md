@@ -13,3 +13,5 @@ City and State: 437 cities in 44 states.
 Closing Date: 266 unique closing dates.
 
 Acquiring Institution: 305 different institutions that acquired failed banks.
+
+## Report Example
