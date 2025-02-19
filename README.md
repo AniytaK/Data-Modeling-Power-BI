@@ -1,10 +1,10 @@
 # Power-BI Project "Failed US Banks"
 
-##Analysis of the data structure:
+## Analysis of the data structure:
 
 571 failed banks are included in the file.
 
-##Important columns:
+## Important columns:
 
 Bank Name: 552 unique banks.
 
