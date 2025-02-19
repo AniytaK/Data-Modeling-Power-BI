@@ -16,4 +16,5 @@ Acquiring Institution: 305 different institutions that acquired failed banks.
 
 ## Report Example
 
-D:\Data_Analytics_Projects\Power BI\Report_Failed_Banks.png
+![image](https://github.com/user-attachments/assets/eb98cee4-8d8b-407b-9f38-217346ebb3bf)
+
